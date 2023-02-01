@@ -3,6 +3,6 @@
             user:4,
             name:"Tom",
             amount:190,
-            date:"26-05-2022"
+            date:"26-05-2022",
     }
 }
